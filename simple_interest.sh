@@ -1,4 +1,4 @@
-#!/bin/bash
+//#!/bin/bash
 
 # Prompt the user for principal amount, rate, and time
 echo "Enter the principal amount:"
